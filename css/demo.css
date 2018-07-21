@@ -1,0 +1,17 @@
+/* demo only CSS */
+
+.bg-image1 {
+    background-image: url('../assets/images/store1.jpg');
+}
+.bg-image2 {
+    background-image: url('../assets/images/store2.jpg');
+}
+.bg-image-fog {
+    background-image: url('../assets/images/bg_fog.jpg');
+}
+.bg-image-water {
+    background-image: url('../img/banner8_50%.jpg');
+}
+.bg-image-jungle {
+    background-image: url('../img/banner4.jpg');
+}
